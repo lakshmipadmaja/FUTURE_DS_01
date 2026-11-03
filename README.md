@@ -74,6 +74,12 @@ The financial analysis focuses on completed and paid USD orders.
 - Relationship between delivery performance and ratings.
 
 ## Interactive Dashboard
+### Dashboard Preview
+
+![Business Sales Dashboard Preview](dashboard/preview.jpg)
+
+[View Interactive Dashboard](dashboard/Business_Sales_Interactive_Dashboard.html)
+
 An interactive dashboard was developed using Plotly to present business performance insights through visualizations.
 
 Dashboard file: `dashboard/Business_Sales_Interactive_Dashboard.html`
